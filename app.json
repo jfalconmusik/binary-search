@@ -1,0 +1,12 @@
+{
+  "name": "bst",
+  "displayName": "bst",
+  "expo": {
+    "name": "bst",
+    "slug": "bst",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
